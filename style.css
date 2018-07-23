@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.function-form{
+    margin:  50px auto;
+    width: 350px;
+}
+.function-form legend{
+    font-size: 20px;
+}
+.function-form fieldset div{
+    margin: 10px 0;
+}
+.function-form input[type = "number"]{
+    width: 120px;
+}
+.function-form input[type = "button"]{
+    padding: 10px 45px;
+}
+.form__result-section{
+    margin: 20px 0;
+    font-weight: bold;
+}
